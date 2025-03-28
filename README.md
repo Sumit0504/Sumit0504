@@ -39,14 +39,9 @@
 <h2 align="center">🌍 Let's Connect!</h2>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/sumitgarg"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="mailto:sumitgarg615@example.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="mailto:sumit0000garg@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 
 ---
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SumitGarg615&show_icons=true&theme=radical" alt="Sumit's GitHub stats" />
-</p>
 
 <p align="center">🌟 Thanks for visiting! Looking forward to collaborating! 🌟</p>
